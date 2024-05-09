@@ -4,7 +4,7 @@
             "outputFile": "com.alex.game.android-mergeDebugResources-2:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/home/super/Baixades/M8WebSocket/android/res/values-v21/styles.xml",
+                    "source": "/home/super/M8WebSocket/android/res/values-v21/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

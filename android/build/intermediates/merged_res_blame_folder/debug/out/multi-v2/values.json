@@ -4,7 +4,7 @@
             "outputFile": "com.alex.game.android-mergeDebugResources-2:/values/values.xml",
             "map": [
                 {
-                    "source": "/home/super/Baixades/M8WebSocket/android/res/values/styles.xml",
+                    "source": "/home/super/M8WebSocket/android/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/super/Baixades/M8WebSocket/android/res/values/strings.xml",
+                    "source": "/home/super/M8WebSocket/android/res/values/strings.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/home/super/Baixades/M8WebSocket/android/res/values/color.xml",
+                    "source": "/home/super/M8WebSocket/android/res/values/color.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

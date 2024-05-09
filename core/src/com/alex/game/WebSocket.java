@@ -42,7 +42,7 @@ class WebSocket implements Screen {
             @Override
             protected void result(Object object) {
                 this.hide();
-                if (object.equals(true)) {
+                if (object.equals("si")) {
                     requestIP();
                 }
             }
@@ -52,10 +52,10 @@ class WebSocket implements Screen {
         ip.setFontScale(3); // Ajusta el tamaño del texto
         dialog.getContentTable().add(ip).pad(0).height(300).width(800).row();
         dialog.setColor(1, 0, 0, 1);
-        TextButton httpButton = new TextButton(" Presiona ", skin);
-        httpButton.getLabel().setFontScale(3); // Ajusta el tamaño del texto del botón
-        httpButton.getSkin().setScale(3);
-        dialog.button(httpButton, true);
+        TextButton boton = new TextButton(" Presiona ", skin);
+        boton.getLabel().setFontScale(3); // Ajusta el tamaño del texto del botón
+        boton.getSkin().setScale(3);
+        dialog.button(boton, "si");
         dialog.getContentTable().setScale(350);
         dialog.padTop(100).pad(300);  // Aumenta el padding del diálogo
         dialog.getCells().get(0).padBottom(20);  // Aumenta el padding debajo del texto del diálogo

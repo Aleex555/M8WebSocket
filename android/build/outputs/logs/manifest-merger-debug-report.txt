@@ -1,86 +1,86 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:2:1-31:12
+ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml:2:1-31:12
 MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/super/.gradle/caches/transforms-3/d9915abdbc263919605c71fcb84c3d67/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:2:1-13:12
 	package
-		INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml
+		INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml
+		INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:3:5-51
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml
+		INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:2:11-69
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:2:11-69
 uses-feature#0x00020000
-ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:5:5-78
+ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:5:5-78
 MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/super/.gradle/caches/transforms-3/d9915abdbc263919605c71fcb84c3d67/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:9:5-11:35
 MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/super/.gradle/caches/transforms-3/d9915abdbc263919605c71fcb84c3d67/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:9:5-11:35
 	android:glEsVersion
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:5:19-51
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:5:19-51
 	android:required
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:5:52-75
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:5:52-75
 uses-permission#android.permission.INTERNET
-ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:6:5-67
+ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:6:22-64
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:7:5-79
+ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:7:22-76
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:7:22-76
 application
-ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:8:5-29:19
-INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:8:5-29:19
+ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:8:5-29:19
+INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml:8:5-29:19
 	android:extractNativeLibs
-		INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml
+		INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml
 	android:label
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:14:9-41
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:14:9-41
 	android:fullBackupContent
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:10:9-41
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:10:9-41
 	android:appCategory
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:13:9-35
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:13:9-35
 	tools:ignore
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:16:9-39
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:16:9-39
 	android:icon
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:11:9-45
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:11:9-45
 	android:allowBackup
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:9:9-35
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:15:9-40
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:15:9-40
 	android:isGame
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:12:9-30
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:12:9-30
 activity#com.alex.game.AndroidLauncher
-ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:17:9-28:20
+ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:17:9-28:20
 	android:screenOrientation
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:20:13-49
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:20:13-49
 	android:label
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:19:13-45
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:19:13-45
 	android:exported
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:23:13-36
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:23:13-36
 	android:configChanges
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:22:13-107
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:22:13-107
 	android:name
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:18:13-57
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:18:13-57
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:24:13-27:29
+ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:25:17-69
+ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:25:25-66
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:26:17-77
+ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml:26:27-74
+		ADDED from /home/super/M8WebSocket/android/AndroidManifest.xml:26:27-74
 uses-sdk
-INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml
-INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml
+INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml
+INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml
 MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/super/.gradle/caches/transforms-3/d9915abdbc263919605c71fcb84c3d67/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] /home/super/.gradle/caches/transforms-3/d9915abdbc263919605c71fcb84c3d67/transformed/gdx-backend-android-1.12.1/AndroidManifest.xml:5:5-7:41
 	android:targetSdkVersion
-		INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml
+		INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/super/Baixades/M8WebSocket/android/AndroidManifest.xml
+		INJECTED from /home/super/M8WebSocket/android/AndroidManifest.xml
