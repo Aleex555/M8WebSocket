@@ -1,0 +1,4 @@
+#Thu May 09 18:27:24 CEST 2024
+base.0=/home/super/Baixades/M8WebSocket/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
